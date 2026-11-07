@@ -1,0 +1,4 @@
+{"doc_id": 1, "title": "streaming index maintenance", "terms": ["index", "stream", "maintenance", "segment"]}
+{"doc_id": 2, "title": "compressed postings layout", "terms": ["index", "postings", "compression", "layout"]}
+{"doc_id": 3, "title": "latency recall tradeoffs in retrieval", "terms": ["latency", "recall", "retrieval", "index"]}
+{"doc_id": 4, "title": "segment compaction policies", "terms": ["segment", "compaction", "policy"]}

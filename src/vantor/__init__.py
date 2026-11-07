@@ -1,0 +1,1 @@
+"""Vantor-Index reference implementation."""
